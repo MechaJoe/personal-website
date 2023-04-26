@@ -17,7 +17,7 @@
   <div>
     <h1 class="sticky h-fit top-20 pt-20">Who am I?</h1>
     {#if show}
-    <h2 in:fade out:fade class="sticky top-20 text-3xl">a software engineer</h2>
+    <h2 in:fade out:fade class="sticky top-80 text-3xl">a software engineer</h2>
     {/if}
   </div>
 </div>
