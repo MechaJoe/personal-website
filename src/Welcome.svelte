@@ -1,5 +1,4 @@
-<div class="h-screen w-screen flex flex-col justify-center items-center
-            ">
+<div class="h-screen w-screen flex flex-col justify-center items-center border-b">
   <div class="flex items-center">
     <h1 class="text-3xl font-bold">Hey, I'm</h1>
     <h1 class="font-bold"><br>Joe Konno</h1>

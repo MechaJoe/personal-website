@@ -1,8 +1,9 @@
 <script>
-  import Secondscreen from "../Secondscreen.svelte"
-  import Topscreen from "../Topscreen.svelte"
-  
+  import WhoAmI from "../WhoAmI.svelte"
+  import Welcome from "../Welcome.svelte"
+  import Projects from "../Projects.svelte"
 </script>
 
-<Topscreen />
-<Secondscreen />
+<Welcome />
+<WhoAmI />
+<Projects />
