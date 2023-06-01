@@ -1,9 +1,13 @@
 <script>
-  import WhoAmI from "../WhoAmI.svelte"
   import Welcome from "../Welcome.svelte"
   import Projects from "../Projects.svelte"
+  import AboutMe from "../AboutMe.svelte"
+  import Footer from "../Footer.svelte"
 </script>
 
-<Welcome />
-<WhoAmI />
-<Projects />
+<div class="">
+  <Welcome />
+  <Projects />
+  <AboutMe />
+  <Footer />
+</div>

@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
   h1 {
-    @apply text-8xl;
+    @apply text-6xl;
     @apply font-bold;
   }
   h2 {
