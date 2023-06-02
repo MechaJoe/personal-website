@@ -3,12 +3,12 @@
   import Email from "svelte-material-icons/Email.svelte"
 </script>
 
-<div class="p-6">
+<div class="pb-20">
   <div class="p-6 flex justify-center">
-    <h1>CONTACT</h1>
+    <h2>CONTACT</h2>
   </div>
   <div class="flex justify-center">
-    <LinkedIn size={80} />
-    <Email size={80} />
+    <LinkedIn size={60} />
+    <Email size={60} />
   </div>
 </div>

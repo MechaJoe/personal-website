@@ -10,7 +10,8 @@ export default {
       },
       fontFamily: {
         'sans' : ['Helvetica', ...defaultTheme.fontFamily.sans],
-        // 'serif' : ['Cormorant Garamond', ...defaultTheme.fontFamily.serif],
+        'serif' : ['Cormorant Garamond', 'Shippori Mincho', ...defaultTheme.fontFamily.serif],
+        'mono' : ['Source Code Pro', ...defaultTheme.fontFamily.mono]
       },
     },
   },
