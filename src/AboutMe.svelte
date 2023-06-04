@@ -14,7 +14,7 @@
   })
 </script>
 
-<div class="w-screen flex py-20 px-10 justify-start">
+<div class="w-full flex py-20 px-10 justify-start">
   <div>
     <h1 class="h-fit pb-20">Who is Joe, really?</h1>
     <div class="top-80 grid grid-cols-2 gap-y-40">

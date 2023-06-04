@@ -5,7 +5,7 @@
   import Footer from "../Footer.svelte"
 </script>
 
-<div class="">
+<div>
   <Welcome />
   <Projects />
   <AboutMe />
