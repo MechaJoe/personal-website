@@ -18,7 +18,7 @@
     friends.
   </h1>
   <svg
-    class="animate-bounce w-6 h-6 m-6 md:absolute md:bottom-5"
+    class="animate-bounce w-6 h-6 m-6 z-0 md:absolute md:bottom-5"
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
     viewBox="0 0 24 24"
