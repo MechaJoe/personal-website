@@ -8,7 +8,11 @@
     <h2>CONTACT</h2>
   </div>
   <div class="flex justify-center">
-    <LinkedIn size={60} />
-    <Email size={60} />
+    <a href="https://www.linkedin.com/in/joe-konno/">
+      <LinkedIn size={60} />
+    </a>
+    <a href="mailto:jo3konno@gmail.com">
+      <Email size={60} />
+    </a>
   </div>
 </div>
