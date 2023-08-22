@@ -6,9 +6,9 @@
   justify-between
   p-6
   bg-white
-  w-full
+  w-auto
   z-10
   ">
   <div>JOE KONNO</div>
-  <a href="https://jkonno-personal-website.s3.amazonaws.com/Joe+Konno+Resume+8-2023.pdf" target="_blank">RESUME</a>
+  <a href="https://jkonno-personal-website.s3.amazonaws.com/Joe+Konno+Resume+8-2023.pdf" target="_blank">RÉSUMÉ</a>
 </div>

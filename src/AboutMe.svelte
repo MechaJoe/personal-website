@@ -14,7 +14,7 @@
   })
 </script>
 
-<div class="w-full flex py-20 px-10 justify-start">
+<div class="h-fit w-fit flex py-20 px-10 justify-start">
   <div>
     <h1 class="h-fit pb-20">Who is Joe, really?</h1>
     <div class="top-80 grid grid-cols-2 gap-y-40">
@@ -28,15 +28,14 @@
       {/if}
       {#if showB}
         <h2 in:fade out:fade class="text-3xl">
-          ...an Ivy League-educated engineer
+          ...an engineer
         </h2>
         <p>
           Joe graduated from the University of Pennsylvania in 2023. It wasn't
           always clear that he would become a software engineer&mdash;he was
           accepted to Penn as a Bioengineering major on the pre-medical track.
           Eventually, his desire to build and constantly learn led him to major
-          in Computer Science, with minors in English and Mathematics to satisfy
-          other intellectual cravings.
+          in Computer Science, with minors in English and Mathematics.
         </p>
       {/if}
       {#if showC}
@@ -48,7 +47,7 @@
           competed in and won local competitions, and was part of the New York
           Youth Symphony in high school. He doesn't play as much as he used to,
           but he still loves listening to classical music. Outside of music, he
-          also plays video games like Tetris and Hearthstone. In 2023, he became
+          also plays video games like Tetris and Fire Emblem. In 2023, he became
           a licensed bartender, and can make any classic cocktail (barring the
           occasional memory slip).
         </p>

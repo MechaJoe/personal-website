@@ -11,10 +11,10 @@
   "
 >
   <h1 class="font-serif font-thin pt-10 md:pt-40">
-    Joe Konno (今野浄) is a software engineer and licensed bartender based in
+    Joe Konno (今野浄) is a software engineer and bartender based in
     Boston, Massachusetts. <br /><br />He likes to build cool things with others
     and absorb as much information&mdash;useful or not&mdash;as he can. In his
-    free time, you can find him reading, cooking eggs, or gaming with his
+    free time, you can find him reading, stuffing his face, or gaming with his
     friends.
   </h1>
   <svg
