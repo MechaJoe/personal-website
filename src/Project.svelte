@@ -8,16 +8,22 @@
 </script>
 
 <div class="py-20">
-  <div class="flex gap-5 items-center pb-5">
+  <div>
     {#if title === "concourse"}
-      <h1 class="font-[Montserrat]">{title}</h1>
-      <HumanCapacityIncrease size={80} />
+      <a class="flex gap-5 items-center pb-5" href="https://github.com/MechaJoe/senior-design">
+        <h1 class="font-[Montserrat]">{title}</h1>
+        <HumanCapacityIncrease size={80} />
+      </a>
     {:else if title === "MusicBar"}
-      <h1 class="font-[Roboto]">{title}</h1>
-      <MusicBox size={80} />
+      <a class="flex gap-5 items-center pb-5" href="https://github.com/MechaJoe/CIS550FinalProject">
+        <h1 class="font-[Roboto]">{title}</h1>
+        <MusicBox size={80} />
+      </a>
     {:else if title === "gournal"}
+    <a class="flex gap-5 items-center pb-5" href="https://github.com/MechaJoe/gournal">
       <h1>{title}</h1>
       <NotebookOutline size={80} />
+    </a>
     {/if}
   </div>
   <div>
